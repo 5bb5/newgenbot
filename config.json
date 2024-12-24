@@ -1,0 +1,27 @@
+{
+  "token": "MTMxNjI1OTIzNTU0MTAyODg3NQ.GXIP_2.cbf_Cd4rpeFjC96oRRoE-fF6Dn4QIFGd_2kXVI",
+  "username": "hosts",
+  "password": "hosts",
+  "port": "3000",
+  "clientId": "1316259235541028875",
+  "guildId": "1278659342043975745",
+  "globalDeploy": false,
+  "status": "https://discord.gg/YkFRN4bNhA",
+  "website": "HS Free Gen Bot",
+  "banner": "",
+  "footer": "Host Store Gen Bot",
+  "genChannel": "1316260235244994591",
+  "premiumChannel": "1316265716000755732",
+  "genCooldown": "5",
+  "premiumCooldown": "3",
+  "color": {
+    "green": "0x57F287",
+    "yellow": "0xFEE75C",
+    "red": "0xED4245",
+    "default": "0x5865F2"
+  },
+  "command": {
+    "notfound_message": true,
+    "error_message": true
+  }
+}
